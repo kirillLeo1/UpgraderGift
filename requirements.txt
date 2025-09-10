@@ -1,0 +1,5 @@
+telethon>=1.41
+python-dotenv>=1.0
+prometheus-client>=0.20
+
+
